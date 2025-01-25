@@ -1,0 +1,22 @@
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Gutkowski Group', 3, 'Rhodia', 'Durrington', '2020-12-07');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('O''Kon, Wilderman and Jenkins', 1, 'Gavin', 'Wharin', '2020-05-31');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Koelpin LLC', 3, 'Boycey', 'Hayworth', '2023-09-09');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Upton, Braun and Roob', 4, 'Neville', 'MacIlory', '2022-11-23');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Bartoletti-Brekke', 1, 'Dermot', 'Mantram', '2024-12-03');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Steuber-Gislason', 1, 'Hart', 'Hazelhurst', '2020-11-18');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Beatty, Legros and Ebert', 4, 'Bernetta', 'Pantling', '2021-07-10');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Fahey-Pfannerstill', 2, 'Matthias', 'Pavkovic', '2021-06-18');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Botsford Group', 1, 'Terrell', 'Cradick', '2023-02-07');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Kunze-Bartell', 3, 'Donna', 'Spoors', '2024-10-11');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Torp Group', 4, 'Franky', 'Durn', '2023-05-02');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Murray Inc', 3, 'Analise', 'Rosie', '2024-07-17');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Cruickshank Group', 1, 'Meriel', 'Blaydes', '2021-05-25');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Nicolas, Corwin and Ritchie', 1, 'Chlo', 'Hallihane', '2021-04-09');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Shields, Bayer and Gislason', 1, 'Aime', 'Roome', '2022-01-25');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Berge Group', 2, 'Alverta', 'Gwinnell', '2024-09-22');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Powlowski-O''Conner', 2, 'Stanwood', 'Dady', '2022-07-12');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Altenwerth, Rohan and Carter', 3, 'Falito', 'Londsdale', '2021-11-25');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Daniel-Pagac', 1, 'Kristopher', 'Antonutti', '2021-09-01');
+insert into agencies (AgencyName, DirectorID, OwnerFirstName, OwnerLastName, AgencyHireDate) values ('Bartoletti, Dare and Smitham', 2, 'Noby', 'Duffyn', '2021-05-03');
+
+SELECT * FROM agencies;
