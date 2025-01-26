@@ -30,6 +30,7 @@ The database should include the following tables:
     
 do uruchomienia programu potrzebny bedzie rowneiz zainstalowany python w wersji min 3.11.
 
+[Create Table Query](queries/createTables.sql "Create Table Query")
 
 ## Running the app
 
