@@ -87,7 +87,7 @@ Each director manages certain number of agencies, based on their results, their 
 
 ## Running the app
 
-1.Clone the repository from GitHub:
+1. Clone the repository from GitHub:
     ```
     git@github.com:HajKlau/commissionReport.git
     ```
@@ -95,7 +95,7 @@ Each director manages certain number of agencies, based on their results, their 
     ```
      cd commissionReport
     ```
-3.Running the app:
+3. Running the app:
     ```
     python3 commissionApp.py
     ```
