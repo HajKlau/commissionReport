@@ -32,6 +32,8 @@ do uruchomienia programu potrzebny bedzie rowneiz zainstalowany python w wersji 
 
 [Create Table Query](queries/createTables.sql "Create Table Query")
 
+
+![Share in commissions](screenshots/share_in_commissions.png "Share in commissions")
 ## Running the app
 
 1.Clone the repository from GitHub:
