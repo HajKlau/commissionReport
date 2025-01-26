@@ -112,6 +112,6 @@ Report generated using queries and python script consist of:
 
 You can select an agency and director to see the data for that selection.
 
-![Agencies commission](screenshots/agencies_commissions.png "Agencies commission")
+![Agencies commission](screenshots/agencies_commission.png "Agencies commission")
 
 ![Directors commission](screenshots/directors_commission.png "Directors commission")
