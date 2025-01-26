@@ -110,7 +110,7 @@ Report generated using queries and python script consist of:
 
 #### Bar chart and tables for selected agencies and directors
 
-https://github.com/HajKlau/commissionReport/blob/readme/screenshots/agencies_selection.webm
+https://github.com/HajKlau/commissionReport/blob/readme/screenshots/agencies_selection.mp4
 
 ![Agencies commission](screenshots/agencies_commissions.png "Agencies commission")
 ![Directors commission](screenshots/directors_commission.png "Directors commission")
