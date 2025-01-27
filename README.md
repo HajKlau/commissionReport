@@ -1,8 +1,6 @@
 # Commission Report app
 
-Create commission report for directors and sales representatives from database using Dash.
-
-The Commission Report Project is an application that automates the process of calculating and visualizing monthly commissions for agencies and their directors. It uses a PostgreSQL database to store the data required for calculations. Based on this data, queries are generated, and the results are presented as interactive charts and tables using Dash. The project was inspired by prior professional experience, where a lack of automation significantly hindered similar analyses. This application makes the process faster, more transparent, and fully automated. Currently, this is an initial version of the application, which will be expanded with additional features in the future.
+Commission Report Project is an application that automates the process of calculating and visualising monthly commissions for agencies and their directors. It uses a PostgreSQL database to store the data required for the calculations on which queries are executed, with the results presented as interactive charts and tables thanks to Python and Dash. The project was inspired by previous professional experience where a lack of automation significantly slowed down similar analyses. This application makes the process faster, more transparent and partially automated. Currently, this is an initial version of the application, which will be expanded with additional features in the future.
 
 ## Get Started
 To properly run the application, you need a Python instlled and PostgreSQL database set up with the following specifications:
