@@ -2,7 +2,7 @@
 
 Create commission report for directors and sales representatives from database using Dash.
 
-The Commission Report Project is an application that automates the process of calculating and visualizing monthly commissions for agencies and their directors. It uses a PostgreSQL database to store the data required for calculations. Based on this data, queries are generated, and the results are presented as interactive charts and tables using Pandas, Dash and Plotly. The project was inspired by prior professional experience, where a lack of automation significantly hindered similar analyses. This application makes the process faster, more transparent, and fully automated. Currently, this is an initial version of the application, which will be expanded with additional features in the future.
+The Commission Report Project is an application that automates the process of calculating and visualizing monthly commissions for agencies and their directors. It uses a PostgreSQL database to store the data required for calculations. Based on this data, queries are generated, and the results are presented as interactive charts and tables using Dash. The project was inspired by prior professional experience, where a lack of automation significantly hindered similar analyses. This application makes the process faster, more transparent, and fully automated. Currently, this is an initial version of the application, which will be expanded with additional features in the future.
 
 ## Get Started
 To properly run the application, you need a Python instlled and PostgreSQL database set up with the following specifications:
@@ -11,7 +11,7 @@ To properly run the application, you need a Python instlled and PostgreSQL datab
 
 The database should include the following tables:
 
-#### directors
+### directors
 | directorid | directorfirstname | directorlastname | directorhiredate |
 |------------|-------------------|------------------|------------------|
 - **directorid** – primary key, unique identifier for the director (*integer, auto-generated*),
@@ -27,7 +27,7 @@ The database should include the following tables:
 - **directorid** – identifier of the managing director for the agency (*foreign key referencing the directors table*),
 - **ownerfirstname** – the first name of the agency owner (*text, up to 255 characters*),
 - **ownerlastname** – the last name of the agency owner (*text, up to 255 characters*),
-- **agencyhiredate** – the founding date of the agency (*date*).
+- **agencyhiredate** – the hire date of the agency (*date*).
 
 ### salesRepresentatives
 | salesrepresentativeid | salesrepresentativefirstname | salesrepresentativelastname | agencyid |
