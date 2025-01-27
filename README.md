@@ -55,10 +55,10 @@ In [queries](queries/ "queries") directory you can find scripts that were used t
 Data used in demo was generated using [Mockaroo](https://www.mockaroo.com/).
 
 - [createTables](queries/createTables.sql)
-- [insertIntoAgencies](queries/insertIntoAgencies.sql)
 - [insertIntoDirectors](queries/insertIntoDirectors.sql)
-- [insertIntoSales](queries/insertIntoSales.sql)
+- [insertIntoAgencies](queries/insertIntoAgencies.sql)
 - [InsertIntoSalesRepresentatives](queries/InsertIntoSalesRepresentatives.sql)
+- [insertIntoSales](queries/insertIntoSales.sql)
 
 #### Work with data
 In the same directory there are two sql scripts:
