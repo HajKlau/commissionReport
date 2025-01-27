@@ -63,7 +63,7 @@ Data used in demo was generated using [Mockaroo](https://www.mockaroo.com/).
 #### Work with data
 In the same directory there are two sql scripts:
 - [agenciesMonthlyCommission](queries/agenciesMonthlyCommission.sql)
-- [dirSrCommission](queries/dirSrCommission.sql)
+- [directorsMonthlyCommission](queries/directorsMonthlyCommission.sql)
 
 Both of these queries calculate the commission and generate tables. It is assumed that there are three types of contracts that sales representatives can enter into with customers.Commissions are being calculated using the following rules:
 
